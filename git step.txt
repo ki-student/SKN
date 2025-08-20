@@ -17,3 +17,7 @@
 
 
 - git pull 오류 : status 확인 후 add 및 commit 진행
+
+강사님 pull 받을 시
+origin	https://github.com/kgmyhGit/SKN13.git (fetch)
+origin	https://github.com/kgmyhGit/SKN13.git (push)
