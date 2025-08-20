@@ -24,6 +24,7 @@ share/python-wheels/
 *.egg-info/
 .installed.cfg
 *.egg
+ko_new.txt
 MANIFEST
 
 # PyInstaller
@@ -50,6 +51,7 @@ coverage.xml
 .hypothesis/
 .pytest_cache/
 cover/
+vector_store/
 
 # Translations
 *.mo
@@ -135,6 +137,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+.pem
 
 # Spyder project settings
 .spyderproject
@@ -172,3 +175,4 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+12_Huggingface_lib/models/nsmc/model.safetensors

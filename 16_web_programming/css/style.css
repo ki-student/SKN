@@ -1,0 +1,12 @@
+.margin{
+    margin:100px
+}
+.padding{
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.border{
+    border: 1px solid skyblue
+}
